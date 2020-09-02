@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 6, Errors: 0, Skipped: 0, Time elapsed: 131.828 sec <<< FAILURE! - in TestSuite
+TC_ETS_Login_002(tests.LoginTest)  Time elapsed: 2.151 sec  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at tests.LoginTest.TC_ETS_Login_002(LoginTest.java:28)
+
+TC_ETS_Login_003(tests.LoginTest)  Time elapsed: 1.699 sec  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at tests.LoginTest.TC_ETS_Login_003(LoginTest.java:37)
+
+TC_ETS_Login_004(tests.LoginTest)  Time elapsed: 2.071 sec  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at tests.LoginTest.TC_ETS_Login_004(LoginTest.java:45)
+
+TC_ETS_Login_006(tests.LoginTest)  Time elapsed: 1.367 sec  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at tests.LoginTest.TC_ETS_Login_006(LoginTest.java:57)
+
+TC_ETS_Login_008(tests.LoginTest)  Time elapsed: 1.52 sec  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at tests.LoginTest.TC_ETS_Login_008(LoginTest.java:73)
+
+TC_ETS_Login_009(tests.LoginTest)  Time elapsed: 1.482 sec  <<< FAILURE!
+java.lang.AssertionError: expected [false] but found [true]
+	at tests.LoginTest.TC_ETS_Login_009(LoginTest.java:81)
+
